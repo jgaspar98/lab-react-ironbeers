@@ -1,0 +1,14 @@
+.li-image{
+    width: 3rem;
+    height: auto;
+}
+
+.li-beers{
+    display:flex;
+    margin-bottom: 2rem;
+}
+
+.li-info{
+    margin-left: auto;
+    margin-right: auto;
+}
